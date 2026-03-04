@@ -1,0 +1,1 @@
+The house prices in California are predicted based on features such as number of rooms, average income of the population in that location, latitude, longitude.The house prices are also affected by how close the house is to the bay area.
